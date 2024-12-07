@@ -23,7 +23,7 @@ try:
         print(os.path.exists("assert.py"))
     
 
-    os.rename("name.png","QRcode.png")
-    
+    os.rename("QRcode.png","QRcode2.png")
+
 except IOError as err:
     print(err)
