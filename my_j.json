@@ -1,0 +1,10 @@
+{
+    "cpu": "AMD",
+    "gpu": "intel arc",
+    "Ram": {
+        "4": "very slow",
+        "8": "slow",
+        "16": "OK",
+        "32": "good"
+    }
+}
